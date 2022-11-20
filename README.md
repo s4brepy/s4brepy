@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4brepy
-- 👀 I’m interested in full-stack development, python and c++
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on interesting projects
+- 👀 I’m interested in full-stack development, Python and C++.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me s4bre.py@gmail.com
 
 <!---
